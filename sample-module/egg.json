@@ -1,0 +1,13 @@
+{
+    "name": "arweave-hello",
+    "description": "A hello world demo module.",
+    "version": "0.0.2",
+    "entry": "./mod.ts",
+    "stable": true,
+    "unlisted": false,
+    "repository": "https://github.com/t8/arweave-nest-demo",
+    "files": [
+        "./mod.ts",
+        "./README.md"
+    ]
+}
